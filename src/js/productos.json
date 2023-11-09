@@ -1,0 +1,122 @@
+[
+    {
+        "id": "Camisa Talle 10",
+        "titulo": "Camisa Talle 10",
+        "imagen": "./img/camisa-unisex.png",
+        "categoria": {
+            "nombre": "Camisas",
+            "id": "camisa"
+        },
+        "precio": 7900
+    },
+    {
+        "id": "Camisa Talle 12",
+        "titulo": "Camisa Talle 12",
+        "imagen": "./img/camisa-unisex.png",
+        "categoria": {
+            "nombre": "Camisas",
+            "id": "camisa"
+        },
+        "precio": 8900
+    },
+    {
+        "id": "Camisa Talle S-L",
+        "titulo": "Camisa Talle S-L",
+        "imagen": "./img/camisa-unisex.png",
+        "categoria": {
+            "nombre": "Camisas",
+            "id": "camisa"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "Camisa Talle XL-XXXL",
+        "titulo": "Camisa Talle XL-XXXL",
+        "imagen": "./img/camisa-unisex.png",
+        "categoria": {
+            "nombre": "Camisas",
+            "id": "camisa"
+        },
+        "precio": 10500
+    },
+    {
+        "id": "Pañuelo",
+        "titulo": "Pañuelo",
+        "imagen": "./img/Pañuelo.png",
+        "categoria": {
+            "nombre": "Pañuelos",
+            "id": "pañuelos"
+        },
+        "precio": 3000
+    },
+    {
+        "id": "Pasa Pañuelo",
+        "titulo": "Pasa Pañuelo",
+        "imagen": "./img/PasaPañuelos.png",
+        "categoria": {
+            "nombre": "Pasa Pañuelos",
+            "id": "pañuelos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Insiginas",
+        "titulo": "Insignia Scout Argentina",
+        "imagen": "./img/Flor-de-lis-nacional.png",
+        "categoria": {
+            "nombre": "Insignias",
+            "id": "insignias"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Insiginas",
+        "titulo": "Insignia Campamento",
+        "imagen": "./img/1escudo campamento anual 2023.jpg",
+        "categoria": {
+            "nombre": "Insignias",
+            "id": "insignias"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Insiginas",
+        "titulo": "Insignia Paravachasca",
+        "imagen": "./img/Paravachasca.png",
+        "categoria": {
+            "nombre": "Insignias",
+            "id": "insignias"
+        },
+        "precio": 1000
+    },
+      {
+        "id": "Insiginas",
+        "titulo": "Insignia Progresión",
+        "imagen": "./img/Progresiones.png",
+        "categoria": {
+            "nombre": "Insignias",
+            "id": "insignias"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Insiginas",
+        "titulo": "Insignias Rama",
+        "imagen": "./img/Pertenencia-Rama.png",
+        "categoria": {
+            "nombre": "Insignias",
+            "id": "insignias"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Insiginas",
+        "titulo": "Insignias Flor de Lis",
+        "imagen": "./img/Flor-de-lis-internacional.png",
+        "categoria": {
+            "nombre": "Insignias",
+            "id": "insignias"
+        },
+        "precio": 1000
+    }
+]
